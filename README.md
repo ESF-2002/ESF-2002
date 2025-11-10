@@ -1,5 +1,8 @@
 <!-- Banner -->
 <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;React+%2F+Next.js+%2F+Angular;PHP+%2F+Node.js+%2F+MySQL;Cybersecurity+Student" alt="Typing SVG" />
+</p>
+<p align="center">
   <img src="https://www.essafi-yassine.com/assets/LOGO2-a5b8d97d.webp" width="100" alt="Logo YSN" />
 </p>
 
