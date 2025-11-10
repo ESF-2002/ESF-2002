@@ -16,7 +16,7 @@
   <a href="https://www.linkedin.com/in/essafi-yassine/">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/essafi_yassine">
+  <a href="https://github.com/esf-2002">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
@@ -52,31 +52,31 @@
 
 ### 🌤️ Weather App  
 > Application météo en temps réel pour toutes les villes du monde.  
-🛠️ *React.js | JavaScript | CSS*  
-🔗 [Source Code](#) | [Live Demo](#)
+🛠️ *React.js*  
+🔗 [Live Demo](https://smartweatherapp.netlify.app/)  
 
 ---
 
 ### 🧠 Wisdom Wars – Interactive Quiz  
 > Jeu de quiz intelligent avec choix de catégories, difficultés et minuteur.  
 🛠️ *React.js | JavaScript | Material UI*  
-🔗 [Source Code](#) | [Live Demo](#)
+🔗 [Live Demo](https://testquiznow.netlify.app/)  
 
 ---
 
 ### 🛍️ Venturo  
 > Plateforme web pour acheter et vendre localement, en toute simplicité.  
-🛠️ *Next.js | TypeScript | CSS*  
-🔗 [Source Code](#) | [Live Demo](#)
+🛠️ *Next.js*  
+🔗 [Live Demo](https://www.venturo-app.fr/)  
 
 ---
 
 ## 🎓 Education
 
-**🎓 Master 2 CYBER | Université Catholique de Lille (2024 - 2026)**  
+**🎓 Master 2 CYBER | Université Catholique de Lille (2026)**  
 > Développement avancé, sécurité, IA, DevOps, et Big Data.
 
-**🎓 Licence Métiers du Numérique | Université de Picardie Jules Verne (2023 - 2024)**  
+**🎓 Licence Métiers du Numérique | Université de Picardie Jules Verne (2024)**  
 > Développement web complet : PHP, JavaScript, React, Symfony, MySQL, Node.js.
 
 ---
@@ -105,7 +105,7 @@
 
 <p align="center">
   <a href="mailto:yassinessafi2002@gmail.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/yassine-essafi/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/essafi-yassine/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.essafi-yassine.com"><img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="https://github.com/esf-2002"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
