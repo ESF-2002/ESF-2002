@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://www.essafi-yassine.com/logo.png" width="100" alt="Logo YSN" />
+  <img src="https://www.essafi-yassine.com/assets/LOGO2-a5b8d97d.webp" width="100" alt="Logo YSN" />
 </p>
 
 <h1 align="center">👋 Hi, I'm <span style="color:#00bfff;">Yassine ESSAFI</span></h1>
